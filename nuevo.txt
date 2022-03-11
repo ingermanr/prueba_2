@@ -8,4 +8,7 @@ otra vez en estas
 
 cada que hacemos cambios se crean nuevas versiones, a estas versiones podemos crearles ramas particulares para trabajar sobre ellas
 
-acá estamos en mastes y vamos a hacer cambios para fusionar con la otra version
+
+ahora voy a probar nuevos cambios
+
+segundos cambios para prpbar luego la fusión con master
