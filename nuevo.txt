@@ -20,3 +20,6 @@ cosas que pasan
 otra vez haciendo cambios
 
 ahora cambio desde el repo de git
+
+
+vea usted, ya hicimos la asociación de llave publica y privada a los repos
