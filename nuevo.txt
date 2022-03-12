@@ -18,3 +18,5 @@ cosas que pasan
 
 
 otra vez haciendo cambios
+
+ahora cambio desde el repo de git
