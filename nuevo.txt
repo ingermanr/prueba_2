@@ -23,3 +23,5 @@ ahora cambio desde el repo de git
 
 
 vea usted, ya hicimos la asociación de llave publica y privada a los repos
+
+ah, ahora veamos que sucede de aqui para allá
