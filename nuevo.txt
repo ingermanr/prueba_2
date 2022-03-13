@@ -8,10 +8,21 @@ otra vez en estas
 
 cada que hacemos cambios se crean nuevas versiones, a estas versiones podemos crearles ramas particulares para trabajar sobre ellas
 
-
 ahora voy a probar nuevos cambios
 
 segundos cambios para prpbar luego la fusión con master
+
 tercer cambio, no se que vaya a pasar
 
 vamos a hacer un pull request con las ramas que tenemos hasta ahora
+
+cosas que pasan
+
+otra vez haciendo cambios
+
+ahora cambio desde el repo de git
+
+vea usted, ya hicimos la asociación de llave publica y privada a los repos
+
+ah, ahora veamos que sucede de aqui para allá
+
